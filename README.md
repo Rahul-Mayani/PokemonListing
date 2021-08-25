@@ -17,7 +17,7 @@ Pokemon API Request by apple concurrency (dispatchgroup)
 To run the example project, clone the repo, and run from the Example directory first.
 
 
-![alt text](https://github.com/Rahul-Mayani/PokemonListing/blob/main/sample.mp4)
+![alt text](https://github.com/Rahul-Mayani/PokemonListing/blob/main/sample.gif)
 
 
 ## Contribute 
